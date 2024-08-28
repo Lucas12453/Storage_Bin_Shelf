@@ -7,8 +7,8 @@ Created to organize and centralize stackable storage bins as well as clamps and 
 - Silicone (Smooth-On Mold Star 15 Slow Platinum Silicone Rubber was used here)
 - Mold release agent (Mann Release Technologies; Ease Release 200 was used here)  
 - Silicone mixing containers  
-- 8 x M8 16mm screws  
-- 8 x M8 nut plate 
+- 8 x M8 16mm flanged screws  
+- 8 x M8 plate nut 
 - 3 x M4 18mm screws  
 - 1 x M4 nut
 
@@ -28,8 +28,8 @@ Created to organize and centralize stackable storage bins as well as clamps and 
 
 ## Assembly
 1. Place the 2 shorter extrusions at least 3 centimeters away from the ends of the longer extrusion.   
-2. Attach the extrusions with the extrusion connectors. Place them facing each other on the inside of the shelf. Use 2 M8 16mm screws on each connector by placing it in the holes. To use the screws, the M8 nut plate must be in the channel within the extrusion. Screw the M8 screw into the plate nut from the outside until it can no longer turn. This should cause a clamping effect, preventing any movement of the extrusions. Do this on every hole of the connector.  
-3. Flip the shelf onto its 2 legs and attach the stabilizers. It follows the same principles as before. Place the long end flat on the ground, pointing 90° away from the extrusion connector. Screw a M8 16mm screw into another nut plate inside the channel. Do this again for the other side of the leg. Repeat these steps on the other side of the shelf.  
+2. Attach the extrusions with the extrusion connectors. Place them facing each other on the inside of the shelf. Use 2 M8 16mm screws on each connector by placing it in the holes. To use the screws, the M8 plate nut must be in the channel within the extrusion. Screw the M8 screw into the plate nut from the outside until it can no longer turn. This should cause a clamping effect, preventing any movement of the extrusions. Do this on every hole of the connector.  
+3. Flip the shelf onto its 2 legs and attach the stabilizers. It follows the same principles as before. Place the long end flat on the ground, pointing 90° away from the extrusion connector. Screw a M8 16mm screw into another plate nut inside the channel. Do this again for the other side of the leg. Repeat these steps on the other side of the shelf.  
 4. Slide on the bin mounts and space them to your preferences. *(We used 5 on each side.)* You can now clip on the storage bins.  
 5. To make the hanger attachment, take the attachment mount and match it up with the flat end of the hanger attachment. Use 2 M4 18mm screws to connect the 2\.  
 6. Take the 5mm diameter rod and feed it through the holes on the top, including the divided hole in the middle.  
