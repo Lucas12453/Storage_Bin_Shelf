@@ -3,6 +3,8 @@
 ## Overview 
 Created to organize and centralize stackable storage bins as well as clamps and safety glasses in the APIL workspace. It features 3D printed attachments, including mounts for the storage bins, and a beam that supports the clamps and glasses. The current design can hold 10 storage bins and other attachments on the top. It is completely customizable, able to have attachments swapped out for others. The design of the aluminum extrusions allows for easy installation and customizable features.
 
+<img src="https://github.com/Lucas12453/Storage_Bin_Shelf/blob/main/Images/bin_shelf_1.jpeg" width="450"> <img src="https://github.com/Lucas12453/Storage_Bin_Shelf/blob/main/Images/bin_shelf_2.jpeg" width="450"> <img src="https://github.com/Lucas12453/Storage_Bin_Shelf/blob/main/Images/bin_shelf_4.jpeg" width="450"> <img src="https://github.com/Lucas12453/Storage_Bin_Shelf/blob/main/Images/bin_shelf_3.jpeg" width="450"> 
+
 ## Materials and Equipment 
 - Silicone (Smooth-On Mold Star 15 Slow Platinum Silicone Rubber was used here)
 - Mold release agent (Mann Release Technologies; Ease Release 200 was used here)  
